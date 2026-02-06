@@ -1,4 +1,3 @@
-================================================================================
 SPINE ANALYSIS PIPELINE - SUPPLEMENTARY MATERIAL
 Dendritic spine detection and classification (mature vs immature / mushroom)
 ================================================================================
