@@ -1,0 +1,32 @@
+{
+  "best_model": "Random Forest",
+  "cv_score": 0.8575757575757577,
+  "cv_std": 0.09171361182073669,
+  "accuracy": 1.0,
+  "auc_score": null,
+  "mushroom_accuracy": 1.0,
+  "all_results": {
+    "Random Forest": {
+      "cv_score": 0.8575757575757577,
+      "accuracy": 1.0,
+      "auc_score": null
+    },
+    "SVM (RBF)": {
+      "cv_score": 0.5742424242424242,
+      "accuracy": 0.8392857142857143,
+      "auc_score": 0.0390625
+    },
+    "SVM (Linear)": {
+      "cv_score": 0.503030303030303,
+      "accuracy": 0.6785714285714286,
+      "auc_score": 0.828125
+    },
+    "Neural Network": {
+      "cv_score": 0.7696969696969698,
+      "accuracy": 1.0,
+      "auc_score": null
+    }
+  },
+  "timestamp": "2025-09-10T16:45:30.990696",
+  "description": "Classifica\u00e7\u00e3o bin\u00e1ria Mushroom vs N\u00e3o-Mushroom"
+}
